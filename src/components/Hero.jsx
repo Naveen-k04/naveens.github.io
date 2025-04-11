@@ -20,8 +20,7 @@ const Hero = () => {
           </h1>
           <div className={`${styles.heroSubText} mt-2 text-white-100`}>
             <p>FULL STACK DEVELOPER</p>
-            <br className="sm:block hidden" />
-            <p className="text-lg mt-2">
+            <p className="text-lg mt-3">
               Open to opportunities – let’s build something amazing!
             </p>
           </div>
