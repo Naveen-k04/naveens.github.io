@@ -30,6 +30,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import java from "./tech/java.png"
+import dp from "./dp.png";
 
 export {
   logo,
@@ -61,4 +62,5 @@ export {
   jobit,
   tripguide,
   java,
+  dp,
 };

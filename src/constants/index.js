@@ -1,3 +1,4 @@
+import { diffProps } from "@react-three/fiber/dist/declarations/src/core/utils";
 import {
   mobile,
   backend,
@@ -20,6 +21,7 @@ import {
   jobit,
   tripguide,
   java,
+  dp,
 } from "../assets";
 
 
@@ -201,7 +203,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: dp,
     source_code_link: "https://github.com/",
   },
   {
