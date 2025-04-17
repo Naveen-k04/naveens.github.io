@@ -1,4 +1,5 @@
-import { diffProps } from "@react-three/fiber/dist/declarations/src/core/utils";
+//import { diffProps } from "@react-three/fiber/dist/declarations/src/core/utils";
+import { Canvas, useFrame } from '@react-three/fiber';
 import {
   mobile,
   backend,
