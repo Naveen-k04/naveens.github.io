@@ -108,10 +108,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Aug 2024 - March 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Successfully completed the Java Full Stack Development course at ExcelR Institute, covering end-to-end software development with a strong focus on real-world application building.",
+      "Developed a solid foundation in front-end technologies including HTML, CSS, JavaScript, and React.js, creating responsive and user-friendly web interfaces.",
+      "Gained practical experience in back-end development using Core Java, JDBC, and Spring Boot, along with database integration using SQL and MySQL.",
+      "Strengthened skills in Git, GitHub, and database management using MySQL.",
     ],
   },
   {
@@ -121,10 +121,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Oct 2021 - June 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Completed Bachelor of Computer Applications (BCA) from Arignar Anna College, affiliated with Periyar University.",
+      "Gained strong foundational knowledge in programming languages including Python, C, C++, and Java.",
+      "Studied essential computer science subjects such as Data Structures & Algorithms (DSA), DBMS, and implemented database operations using JDBC.",
+      "Applied learning through academic projects and hands-on practice, improving logical thinking, coding, and problem-solving skills.",
     ],
   },
   {
@@ -134,10 +134,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Completed Higher Secondary Education (HSC) with a specialization in Computer Commerce at Concordia Higher Secondary School, Bargur.",
+      "Studied key subjects including Commerce, Accountancy, Economics, and Computer Science.",
+      "Gained foundational knowledge in computer applications, programming basics, and office automation tools.",
+      "Developed analytical and logical thinking skills through computer theory and practical lab sessions.",
     ],
   },
   {
@@ -147,10 +147,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "2018",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Completed Secondary School Leaving Certificate (SSLC) at Concordia Higher Secondary School, Bargur.",
+      "Studied core subjects including Mathematics, Science, Social Science, English, and Tamil.",
+      "Built a strong academic foundation and developed disciplined study habits.",
+      "Actively participated in school activities and maintained a good academic record.",
     ],
   },
 ];
@@ -184,20 +184,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "3D_Portfolio",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "This 3D portfolio utilizes Three.js for immersive 3D graphics and React Three Fiber for seamless integration with React. Styled with TailwindCSS for fast, responsive design and enhanced with Framer Motion for smooth animations and interactive transitions, this project showcases a dynamic, modern, and visually engaging user experience.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "TailwindCSS",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Framer Motion",
         color: "pink-text-gradient",
       },
     ],
